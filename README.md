@@ -2,7 +2,7 @@
 
 # [Random Number Generator](https://numbergenerator.org/)
 
-# [Program](https://github.com/elijahkash/push_swap_gui)
+# [Push swap gui](https://github.com/elijahkash/push_swap_gui)
 
 
 ![Image](https://i.hizliresim.com/fykl7pa.png)
